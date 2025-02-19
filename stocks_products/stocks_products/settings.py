@@ -82,10 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netology_stocks_products',
-        'HOST': '192.168.34.120',
-        'PORT': '5432',
-        'USER': 'ormadmin',
-        'PASSWORD': 'oRm2022!!!'
+        'HOST': '127.0.0.1',
+        'PORT': '5432'
     }
 }
 
